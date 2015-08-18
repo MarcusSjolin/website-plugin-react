@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MarcusSjolin/website-plugin-react#readme",
   "dependencies": {
-    "react-loader": "^1.4.0"
+    "jsx-loader": "^0.13.2"
   }
 }
