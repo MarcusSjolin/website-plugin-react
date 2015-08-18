@@ -1,0 +1,22 @@
+{
+  "name": "website-plugin-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusSjolin/website-plugin-react.git"
+  },
+  "author": "Marcus Sjölin <marcussjolin@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusSjolin/website-plugin-react/issues"
+  },
+  "homepage": "https://github.com/MarcusSjolin/website-plugin-react#readme",
+  "dependencies": {
+    "react-loader": "^1.4.0"
+  }
+}
