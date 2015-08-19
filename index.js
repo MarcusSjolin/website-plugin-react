@@ -12,4 +12,5 @@ exports = module.exports = function websitePluginSass(website, next) {
 }
 
 exports.React = require("react")
-exports.ReactAddons = require("react/addons")
+exports.Addons = require("react/addons")
+exports.Router = require("react-router")
